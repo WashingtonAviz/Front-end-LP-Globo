@@ -22,7 +22,7 @@ Quando não recebo esses requisitos, realizo todo o desenvolvimento do frontend 
 
 🔗[Acesse este link para um speed video de como este projeto ficou.](https://drive.google.com/file/d/1QUfQqVbe7DxNVng_xk0VcuPKr9Nb_9ZV/view?usp=sharing)
 
-Ou acesse os códigos e os commits para saber como foi construido.
+Ou acesse os códigos e os commits para saber como foi construído.
 
 # lp_globo_es
 
