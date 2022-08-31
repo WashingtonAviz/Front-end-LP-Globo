@@ -18,7 +18,7 @@ Os requisitos deste projeto eram:
 
 Quando recebo esses requisitos, atendo 100% de todos eles de acordo com o escopo de cada projeto.
 
-Quando não recebo esses requisitos, realizo todo o desenvolvimento do frontend adequando o UI e UX a regra de negócio, estudo de público, exigências de performace e padronização de identidade visual.
+Quando não recebo esses requisitos, realizo todo o desenvolvimento do frontend adequando o UI e UX a regra de negócio, estudo de público, exigências de performance e padronização de identidade visual.
 
 🔗[Acesse este link para um speed video de como este projeto ficou.](https://drive.google.com/file/d/1QUfQqVbe7DxNVng_xk0VcuPKr9Nb_9ZV/view?usp=sharing)
 
